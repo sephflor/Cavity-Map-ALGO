@@ -1,1 +1,1 @@
-# Cavity-Map-ALGO
+# Cavity-Map-ALGO.This program identifies and marks cavities in a numeric grid. It copies the input strings into a 2D array, checks each inner cell to see if it is strictly greater than its four neighbors, replaces such cells with 'X', and then converts the grid back to strings for output.
